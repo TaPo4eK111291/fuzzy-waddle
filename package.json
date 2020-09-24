@@ -11,6 +11,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "svg-inline-loader": "^0.8.2",
     "vue": "^2.5.2"
   },
   "devDependencies": {

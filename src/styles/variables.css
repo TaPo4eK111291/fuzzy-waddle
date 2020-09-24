@@ -1,0 +1,15 @@
+body {
+  --table-outline-color: var(--color-primary);
+  --table-outline-width: 1px;
+  --table-header-outline: var(--table-outline-width) solid var(--table-outline-color);
+  --table-body-outline: var(--table-outline-width) solid var(--table-outline-color);
+
+  --table-header-background-color: rgba(140, 140, 140, 0.3);
+
+  --text-color: #000000;
+
+  --color-primary: #000000;
+
+  --background-color: #fdfdfd;
+  --background-light: #ffffff;
+}
